@@ -8,10 +8,12 @@
 
 ## 🚀 Sobre mim
 
-- 🔭 Atualmente estou trabalhando em: **[seu projeto atual]**
-- 🌱 Estou aprendendo: **[o que você está estudando]**
-- 📫 Como me encontrar: **[seu e-mail ou LinkedIn]**
+Sou o Cristian, desenvolvedor de software apaixonado por resolver problemas e construir soluções que fazem diferença no dia a dia.
 
+- 💼 Atuo profissionalmente com desenvolvimento de software
+- 🌱 Sempre aprendendo algo novo e buscando evoluir como dev
+- 🧩 Gosto de código limpo, boas práticas e desafios técnicos
+- 🤝 Aberto a trocar ideias sobre tecnologia e projetos interessantes
 ---
 
 ## 📊 Estatísticas no GitHub
